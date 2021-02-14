@@ -2,7 +2,7 @@
 
 ### I'm …
 
-- 🏫 a student at the Chuo University in Japan.
+- 🏫 a student at Chuo University in Japan.
 - 🌱 interested in competitive programming, meta-heuristics and the Rust programming language.
 - 📝 have solved over 1000 competitive programming problems in Python (AtCoder Cyan💧/Codeforces Cyan💧).
 
