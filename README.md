@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### I'm …
+
+- 🏫 a student at the Chuo University in Japan.
+- 🌱 interested in competitive programming, meta-heuristics and the Rust programming language.
+- 📝 have solved over 1000 competitive programming problems in Python (AtCoder cyan💧).
+
 <!--
 **ntk-ta01/ntk-ta01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
