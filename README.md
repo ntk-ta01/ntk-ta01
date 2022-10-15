@@ -3,8 +3,7 @@
 ### I'm …
 
 - 🏫 a student at Chuo University in Japan.
-- 🌱 interested in competitive programming, meta-heuristics and Rust.
-- 📝 have solved over 1000 competitive programming problems in Python (AtCoder Cyan💧/Codeforces Cyan💧).
+- 🌱 interested in competitive programming (AtCoder Algorithm: Cyan, Heuristic: Blue), meta-heuristics and Rust.
 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ntk-ta01&theme=dark" />
